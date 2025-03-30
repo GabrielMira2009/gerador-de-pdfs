@@ -1,4 +1,8 @@
 # Ignorar arquivos grandes específicos
 node_modules/
 .env
+
+
 pdf/gerados/*
+!pdf/gerados/.gitkeep
+
