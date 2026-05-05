@@ -1,9 +1,4 @@
-# 🚀 Projetos em JavaScript 
-
-Bem-vindo ao meu repositório de projetos em JavaScript!
-
-
-## 📄 PDF Generator
+# 📄 PDF Generator
 
 Gera PDFs automaticamente a partir de dados inseridos pelo usuário.
 
